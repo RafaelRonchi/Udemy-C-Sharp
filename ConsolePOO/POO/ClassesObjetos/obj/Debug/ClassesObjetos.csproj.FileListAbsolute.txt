@@ -1,0 +1,8 @@
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe.config
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\ClassesObjetos\bin\Debug\ClassesObjetos.pdb
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.AssemblyReference.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.SuggestedBindingRedirects.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.CoreCompileInputs.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\ClassesObjetos\obj\Debug\ClassesObjetos.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\ClassesObjetos\obj\Debug\ClassesObjetos.pdb

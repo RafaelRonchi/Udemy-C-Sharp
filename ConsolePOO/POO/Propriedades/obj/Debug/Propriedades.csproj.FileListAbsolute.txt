@@ -1,0 +1,8 @@
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Propriedades\bin\Debug\Propriedades.exe.config
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Propriedades\bin\Debug\Propriedades.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Propriedades\bin\Debug\Propriedades.pdb
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Propriedades\obj\Debug\Propriedades.csproj.SuggestedBindingRedirects.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Propriedades\obj\Debug\Propriedades.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Propriedades\obj\Debug\Propriedades.pdb

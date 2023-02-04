@@ -1,0 +1,8 @@
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Estaticas\bin\Debug\Estaticas.exe.config
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Estaticas\bin\Debug\Estaticas.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Estaticas\bin\Debug\Estaticas.pdb
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Estaticas\obj\Debug\Estaticas.csproj.AssemblyReference.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Estaticas\obj\Debug\Estaticas.csproj.SuggestedBindingRedirects.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Estaticas\obj\Debug\Estaticas.csproj.CoreCompileInputs.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Estaticas\obj\Debug\Estaticas.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Estaticas\obj\Debug\Estaticas.pdb

@@ -1,0 +1,8 @@
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\TermoThis\bin\Debug\TermoThis.exe.config
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\TermoThis\bin\Debug\TermoThis.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\TermoThis\bin\Debug\TermoThis.pdb
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\TermoThis\obj\Debug\TermoThis.csproj.AssemblyReference.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\TermoThis\obj\Debug\TermoThis.csproj.SuggestedBindingRedirects.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\TermoThis\obj\Debug\TermoThis.csproj.CoreCompileInputs.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\TermoThis\obj\Debug\TermoThis.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\TermoThis\obj\Debug\TermoThis.pdb

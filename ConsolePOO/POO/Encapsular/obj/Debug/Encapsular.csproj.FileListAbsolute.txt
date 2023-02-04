@@ -1,0 +1,8 @@
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Encapsular\bin\Debug\Encapsular.exe.config
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Encapsular\bin\Debug\Encapsular.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Encapsular\bin\Debug\Encapsular.pdb
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Encapsular\obj\Debug\Encapsular.csproj.SuggestedBindingRedirects.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Encapsular\obj\Debug\Encapsular.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Encapsular\obj\Debug\Encapsular.pdb

@@ -1,0 +1,8 @@
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe.config
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.pdb
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.AssemblyReference.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.SuggestedBindingRedirects.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.CoreCompileInputs.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.pdb

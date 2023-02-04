@@ -1,0 +1,8 @@
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Polimorfismo\bin\Debug\Polimorfismo.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Polimorfismo\bin\Debug\Polimorfismo.pdb
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Polimorfismo\obj\Debug\Polimorfismo.csproj.SuggestedBindingRedirects.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Polimorfismo\obj\Debug\Polimorfismo.exe
+D:\GITCLONE\Udemy-C-Sharp\ConsolePOO\POO\Polimorfismo\obj\Debug\Polimorfismo.pdb
