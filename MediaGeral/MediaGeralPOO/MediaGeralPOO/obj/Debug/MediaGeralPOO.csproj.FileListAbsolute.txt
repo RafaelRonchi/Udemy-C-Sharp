@@ -1,0 +1,8 @@
+D:\GITCLONE\Udemy-C-Sharp\MediaGeral\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe.config
+D:\GITCLONE\Udemy-C-Sharp\MediaGeral\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+D:\GITCLONE\Udemy-C-Sharp\MediaGeral\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+D:\GITCLONE\Udemy-C-Sharp\MediaGeral\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.AssemblyReference.cache
+D:\GITCLONE\Udemy-C-Sharp\MediaGeral\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.SuggestedBindingRedirects.cache
+D:\GITCLONE\Udemy-C-Sharp\MediaGeral\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+D:\GITCLONE\Udemy-C-Sharp\MediaGeral\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+D:\GITCLONE\Udemy-C-Sharp\MediaGeral\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb
