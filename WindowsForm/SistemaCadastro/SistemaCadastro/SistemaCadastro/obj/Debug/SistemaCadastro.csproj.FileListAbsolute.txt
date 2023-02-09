@@ -1,0 +1,11 @@
+D:\GITCLONE\Udemy-C-Sharp\WindowsForm\SistemaCadastro\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+D:\GITCLONE\Udemy-C-Sharp\WindowsForm\SistemaCadastro\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+D:\GITCLONE\Udemy-C-Sharp\WindowsForm\SistemaCadastro\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+D:\GITCLONE\Udemy-C-Sharp\WindowsForm\SistemaCadastro\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.AssemblyReference.cache
+D:\GITCLONE\Udemy-C-Sharp\WindowsForm\SistemaCadastro\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.SuggestedBindingRedirects.cache
+D:\GITCLONE\Udemy-C-Sharp\WindowsForm\SistemaCadastro\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+D:\GITCLONE\Udemy-C-Sharp\WindowsForm\SistemaCadastro\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+D:\GITCLONE\Udemy-C-Sharp\WindowsForm\SistemaCadastro\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+D:\GITCLONE\Udemy-C-Sharp\WindowsForm\SistemaCadastro\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+D:\GITCLONE\Udemy-C-Sharp\WindowsForm\SistemaCadastro\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+D:\GITCLONE\Udemy-C-Sharp\WindowsForm\SistemaCadastro\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Form1.resources
