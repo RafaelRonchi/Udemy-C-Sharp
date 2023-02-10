@@ -93,7 +93,7 @@
             // txtNome
             // 
             this.txtNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNome.Location = new System.Drawing.Point(163, 113);
+            this.txtNome.Location = new System.Drawing.Point(163, 119);
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(575, 31);
             this.txtNome.TabIndex = 4;
@@ -101,7 +101,7 @@
             // txtData
             // 
             this.txtData.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtData.Location = new System.Drawing.Point(301, 169);
+            this.txtData.Location = new System.Drawing.Point(301, 174);
             this.txtData.Name = "txtData";
             this.txtData.Size = new System.Drawing.Size(437, 31);
             this.txtData.TabIndex = 5;
@@ -110,7 +110,7 @@
             // 
             this.comboEC.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboEC.FormattingEnabled = true;
-            this.comboEC.Location = new System.Drawing.Point(215, 225);
+            this.comboEC.Location = new System.Drawing.Point(215, 230);
             this.comboEC.Name = "comboEC";
             this.comboEC.Size = new System.Drawing.Size(523, 33);
             this.comboEC.Sorted = true;
@@ -119,7 +119,7 @@
             // txtTelefone
             // 
             this.txtTelefone.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTelefone.Location = new System.Drawing.Point(191, 283);
+            this.txtTelefone.Location = new System.Drawing.Point(190, 289);
             this.txtTelefone.Mask = "(00) 00000-0000";
             this.txtTelefone.Name = "txtTelefone";
             this.txtTelefone.Size = new System.Drawing.Size(547, 31);
@@ -129,7 +129,7 @@
             // 
             this.checkCasa.AutoSize = true;
             this.checkCasa.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkCasa.Location = new System.Drawing.Point(191, 348);
+            this.checkCasa.Location = new System.Drawing.Point(88, 354);
             this.checkCasa.Name = "checkCasa";
             this.checkCasa.Size = new System.Drawing.Size(160, 22);
             this.checkCasa.TabIndex = 8;
@@ -140,7 +140,7 @@
             // 
             this.checkVeiculo.AutoSize = true;
             this.checkVeiculo.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkVeiculo.Location = new System.Drawing.Point(191, 381);
+            this.checkVeiculo.Location = new System.Drawing.Point(88, 387);
             this.checkVeiculo.Name = "checkVeiculo";
             this.checkVeiculo.Size = new System.Drawing.Size(152, 22);
             this.checkVeiculo.TabIndex = 9;
@@ -268,7 +268,7 @@
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "AppCadastro";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

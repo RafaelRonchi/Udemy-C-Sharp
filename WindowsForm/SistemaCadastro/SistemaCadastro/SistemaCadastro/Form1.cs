@@ -46,13 +46,13 @@ namespace SistemaCadastro
 
             if (txtNome.Text == "")
             {
-                MessageBox.Show("Preencha o campo nome");
+                MessageBox.Show("Preencha o campo de nome!");
                 txtNome.Focus();
                 return;
             }
             if (txtTelefone.Text == "(  )      -")
             {
-                MessageBox.Show("Preencha o campo nome");
+                MessageBox.Show("Preencha o campo de telefone!");
                 txtTelefone.Focus();
                 return;
             }
