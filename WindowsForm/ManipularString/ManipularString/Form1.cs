@@ -38,7 +38,7 @@ namespace ManipularString
             #endregion
 
             #region ToUpper / ToLower
-            //string nome = "GABRIEL artigas";
+            //string nome = "RAFAEL ronchi";
 
             // nome.ToUpper();
 
@@ -46,26 +46,26 @@ namespace ManipularString
             #endregion
 
             #region IndexOf / LastIndexOf
-            //string nome = "Gabriel Artigas Artigas";
+            //string nome = "Rafael Eduardo Eduardo";
 
-            ////int indice = nome.IndexOf('a', 5, 4);
-            //int indice = nome.LastIndexOf("Artigas");
+            ////int indice = nome.IndexOf('E', 5, 4);
+            //int indice = nome.LastIndexOf("Eduardo");
 
             //label1.Text = "Indice: " + indice;
             #endregion
 
             #region Insert / Replace
-            //string nome = "Gabriel Artigas";
+            //string nome = "rafael Ronchi";
 
             ////string nomeFinal = nome.Insert(7, " Lucas");
 
-            //string nomeFinal = nome.Replace("Artigas", "Silva");
+            //string nomeFinal = nome.Replace("Ronchi", "Silva");
 
             //label1.Text = nomeFinal;
             #endregion
 
             #region Length / Substring
-            //string nome = "Gabriel Artigas";
+            //string nome = "Rafael Eduardo";
 
             ////int tam = nome.Length;
             ////label1.Text = "O nome " + nome + " contém " + tam + " letras"; 
@@ -81,7 +81,7 @@ namespace ManipularString
             #endregion
 
             #region Split
-            //string nomes = "Gabriel Danny Arthur_Glória-Bia-Flávio";
+            //string nomes = "Rafael Carlos Arthur_Glória-Bia-Flávio";
 
             //char[] separador = { ' ', '-', '_' };
 
@@ -94,9 +94,9 @@ namespace ManipularString
             #endregion
 
             #region StartsWith / EndsWith
-            //string nome = "Gabriel";
+            //string nome = "Rafael";
 
-            ////bool res = nome.StartsWith("Gab", StringComparison.OrdinalIgnoreCase);
+            ////bool res = nome.StartsWith("raf", StringComparison.OrdinalIgnoreCase);
 
             //bool res = nome.EndsWith("EL", StringComparison.OrdinalIgnoreCase);
 
@@ -111,7 +111,7 @@ namespace ManipularString
             #endregion
 
             #region Trim / TrimStart / TrimEnd
-            //string mensagem = "    Ola Gabriel    ";
+            //string mensagem = "    Ola Rafael    ";
 
             ////char[] c = { ' ', '-', '_', '5' };
             ////string nova = mensagem.Trim(c);
@@ -121,9 +121,9 @@ namespace ManipularString
             #endregion
 
             #region Equals / CompareTo
-            //string nome = "Lucas";
+            //string nome = "Rafael";
 
-            //string nome2 = "Laura";
+            //string nome2 = "Raura";
 
             ////if (nome.Equals(nome2))
             ////{
