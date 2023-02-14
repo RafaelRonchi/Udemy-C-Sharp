@@ -11,7 +11,8 @@ using System.Windows.Forms;
 namespace SistemaLogin
 {
     public partial class FormLogin : Form
-    {
+    {   
+        public static bool Cancelar = false;
         public FormLogin()
         {
             InitializeComponent();
@@ -34,16 +35,17 @@ namespace SistemaLogin
             else
             {
                 MessageBox.Show("Acesso Negado!");
-                txtUsuario.Text = " ";
-                txtSenha.Text = " ";
+                txtUsuario.Text = "";
+                txtSenha.Text = "";
                 txtUsuario.Focus();
-                
+                Close();
             }
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)
         {
-           
+            Cancelar = true;
+            Close();
         }
     }
 }
